@@ -58,7 +58,7 @@ install.packages(c(
 ## Usage
 
 1.  **Setup Environment:**
-    Ensure all dependencies are installed. Note that `new_ana.R` contains hardcoded paths (e.g., `/home/ivm/SCN5A`) specific to the analysis environment. You must update `wdPath` and source paths to match your local directory structure.
+    Ensure all dependencies are installed. 
 
 2.  **Data Preparation:**
 
